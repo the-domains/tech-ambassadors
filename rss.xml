@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tech Ambassadors]]></title>
+        <description><![CDATA[Tech Ambassadors]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 21:58:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df439ae-832d-492e-a03c-3e5bb9bcdd8b.jpg">]]></description>
+            <link>undefinedshutterfly-and-mac-os-x-extensions/index.html</link>
+            <guid isPermaLink="false">dd47d4cf-e46e-4b92-99c7-6f5f03c8a502</guid>
+            <pubDate>Fri, 18 Mar 2016 21:57:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
